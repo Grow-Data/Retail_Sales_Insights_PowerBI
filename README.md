@@ -1,27 +1,27 @@
-### Snapzo Sales Analysis – Power BI Project
+# Snapzo Sales Analysis – Power BI Project
 ## Overview
 This Power BI project analyzes fictional sales data for Snapzo, a demo company created for portfolio purposes . The goal is to explore sales patterns, understand customer preferences, and evaluate business performance based on factors such as product fat content, item type, outlet size, and location. The analysis provides actionable insights that could help optimize product offerings, improve operational decisions, and enhance overall sales strategy.
 
 ## Business Requirements & Chart Insights
-# 1. Total Sales by Fat Content
+### 1. Total Sales by Fat Content
 Objective: Analyze the impact of fat content on total sales.
 
-# 2. Total Sales by Item Type
+### 2. Total Sales by Item Type
 Objective: Identify performance of different product categories in terms of total sales.
 
-# 3. Fat Content by Outlet for Total Sales
+### 3. Fat Content by Outlet for Total Sales
 Objective: Compare total sales across outlets segmented by fat content.
 
-# 4. Total Sales by Outlet Establishment
+### 4. Total Sales by Outlet Establishment
 Objective: Evaluate how the age of an outlet influences sales.
 
-# 5. Sales by Outlet Size
+### 5. Sales by Outlet Size
 Objective: Analyze correlation between outlet size and total sales.
 
-# 6. Sales by Outlet Location
+### 6. Sales by Outlet Location
 Objective: Assess geographic sales distribution across locations.
 
-# 7. All Metrics by Outlet Type
+### 7. All Metrics by Outlet Type
 Objective: Provide a comprehensive KPI view by outlet type.
 
 ## Acknowledgments
