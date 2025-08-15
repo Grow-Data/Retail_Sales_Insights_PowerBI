@@ -26,8 +26,8 @@ Objective: Provide a comprehensive KPI view by outlet type.
 
 ## Download the Power BI Dashboard
 
-You can [**download the full Power BI file here**](Snapzo_Sales_Analysis.pbix)  
-or [click this **View Raw** link](Snapzo_Sales_Analysis.pbix?raw=true) to download it directly.  
+You can [**download the full Power BI file here**](https://github.com/Grow-Data/Retail_Sales_Insights_PowerBI/raw/refs/heads/main/snapzo_sales_power%20BI.pbix)  
+or click **View Raw** link attached to snapzo_sales_power BI.pbix to download it directly.  
 
 > **Note:** Open the file in **Power BI Desktop** to explore the full interactive dashboard.
 
