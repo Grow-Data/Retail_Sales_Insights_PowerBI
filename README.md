@@ -24,6 +24,9 @@ Objective: Assess geographic sales distribution across locations.
 ### 7. All Metrics by Outlet Type
 Objective: Provide a comprehensive KPI view by outlet type.
 
+## Dashboard Preview
+![Dashboard Screenshot]("C:\Users\Dell\OneDrive\Desktop\powerbi_projects\snapzo_screenshot.PNG")
+
 ## Acknowledgments
 Special thanks to data providers and the Power BI community for guidance and inspiration.
 
