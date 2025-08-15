@@ -30,6 +30,3 @@ Special thanks to data providers and the Power BI community for guidance and ins
 ## Disclaimer
 This dashboard is based on a publicly available practice dataset. The company name "Snapzo" is fictional and used solely for demonstration purposes.
 
-KPIs: Total Sales, Average Sales, Number of Items, Average Rating.
-
-Chart Type: Matrix Card
