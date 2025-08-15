@@ -24,6 +24,9 @@ Objective: Assess geographic sales distribution across locations.
 ### 7. All Metrics by Outlet Type
 Objective: Provide a comprehensive KPI view by outlet type.
 
+## Screenshot
+![Dashboard Screenshot](https://github.com/Grow-Data/Retail_Sales_Insights_PowerBI/blob/main/snapzo_screenshot.PNG?raw=true)
+
 ## Download the Power BI Dashboard
 
 You can [**download the full Power BI file here**](https://github.com/Grow-Data/Retail_Sales_Insights_PowerBI/raw/refs/heads/main/snapzo_sales_power%20BI.pbix)  
